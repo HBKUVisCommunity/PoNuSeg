@@ -46,7 +46,7 @@ If you find this work useful, please cite the paper once it becomes available.
 
 ```bibtex
 @article{ponuseg,
-  title={PoNuSeg: Point-Supervised Nuclei Instance Segmentation via Boundary-Aware Affinity Maps and Contrastive Neighborhood Learning},
+  title={PoNuSeg: Point-Supervised Nuclei Instance Segmentation via Uncertainty-Aware Affinity and Contrastive Neighborhood Learning},
   author={Althelaya, Khaled and Agus, Marco and Schneider, Jens},
   journal={TBD},
   year={TBD}
