@@ -1,6 +1,6 @@
 # PoNuSeg
 
-**PoNuSeg: Point-Supervised Nuclei Instance Segmentation via Boundary-Aware Affinity and Contrastive Neighborhood Learning**
+**PoNuSeg: Point-Supervised Nuclei Instance Segmentation via Uncertainty-Aware Affinity and Contrastive Neighborhood Learning**
 
 ## Overview
 
