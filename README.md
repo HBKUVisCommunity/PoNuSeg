@@ -21,7 +21,7 @@ This repository is currently being prepared for public release.
 ## Paper
 
 **Title:**  
-*PoNuSeg: Point-Supervised Nuclei Instance Segmentation via Boundary-Aware Affinity Maps and Contrastive Neighborhood Learning*
+*PoNuSeg: Point-Supervised Nuclei Instance Segmentation via Uncertainty-Aware Affinity and Contrastive Neighborhood Learning*
 
 ## Code Availability
 
